@@ -38,7 +38,7 @@ While($i -lt $InputString.Length){ #can use basically any loop - for, do while, 
             break
         }
         else {
-            $chararray.Add($char)
+            $a=$chararray.Add($char)
             $i++
         }
 }
