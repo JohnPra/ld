@@ -17,3 +17,7 @@ The string you would need to input for the function ot run.
 Find-FirstRecurringLetter -InputString "sejfhyba"
 
 Find-FirstRecurringLetter -InputString "'Please hire John, he's good and always willing to go the extra mile! Also, really wants to work with you!' -Sentient Readme File"
+
+### Example output
+No recurring letters in 'sejfhyba'.
+The first repeating character in 'sdukfhgwf' is: f, at position 9
