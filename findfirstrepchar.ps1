@@ -11,9 +11,9 @@ populate the array and then loop again to check against each character in the ar
 .PARAMETER InputString
 The string you would need to input for the function ot run.
 
-.EXAMPLES
+.EXAMPLE
 Find-FirstRecurringLetter -InputString "sejfhyba"
-Find-FirstRecurringLetter -InputString "'Please hire John, he's good, always willing to go the extra mile! Also, really wants to work with you!' -Sentient Script"
+Find-FirstRecurringLetter -InputString "'Please hire John, he's good and always willing to go the extra mile! Also, really wants to work with you!' -Sentient Script"
 
 #>
 
