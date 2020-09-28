@@ -10,6 +10,7 @@ populate the array and then loop again to check against each character in the ar
 
 ## PARAMETERS 
 InputString
+
 The string you would need to input for the function ot run.
 
 ## EXAMPLES
